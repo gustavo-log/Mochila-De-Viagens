@@ -1,2 +1,2 @@
-# Mochila-De-Viagens
- Projeto realizado a partir do curso JavaScript
+# Mochila De Viagens
+Olá pessoal, esse é um projeto proposto pelo curso JavaScript na Web: armazenando dados no navegador, da alura. Nesse projeto a principal atividade era interagir com o armazenamento do navegador chamado de LocalStorage, onde adicionamos informações e elas ficam salvas mesmo após atualizar a página, fui uma experiência incrivel.
